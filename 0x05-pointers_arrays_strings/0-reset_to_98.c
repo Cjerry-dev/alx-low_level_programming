@@ -2,6 +2,7 @@
 /**
 * reset_to_98 - test the discription
 * more trash
+* n the pointer variable
 */
 void reset_to_98(int *n)
 {
