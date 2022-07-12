@@ -1,9 +1,9 @@
 #include "main.h"
-
-/*
-*parameter and updates the value it points
-* to to 98.
-*reset_to_98-updates the value of a pointer
+/**
+*  reset_to_98 - takes the pointer and updates the value
+*  @n: int to check
+*  Owned By Bwave/Bright
+*  Return: 0 is success
 */
 void reset_to_98(int *n)
 {
