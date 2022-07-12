@@ -1,7 +1,7 @@
 #include "main.h"
 /*
-*reset_to_98 - test
-*more trash
+* reset_to_98 - test the discription
+* more trash
 */
 void reset_to_98(int *n)
 {
