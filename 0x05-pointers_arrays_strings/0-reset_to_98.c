@@ -1,7 +1,7 @@
 #include "main.h"
-/**
-*  @n: int to check
-*  Owned By Bwave/Bright
+/*
+*reset_to_98 - test
+*more trash
 */
 void reset_to_98(int *n)
 {
