@@ -19,6 +19,6 @@ void _puts_recursion(char *s)
 	i--;
 	_putchar(s[i]);
 	}
-	return (0);
+
 }
 
